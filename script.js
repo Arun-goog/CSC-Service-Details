@@ -88,7 +88,8 @@ let questions = [
     },{
         question : "One and Same Certificate",
         qnsnum : "QNS 13",
-        choiceA : "posse",
+        choiceA : "1. Aadhaar card <br> 2.Election ID Card <br> 3. Ration Card<br> 4. Any relevant documents indicating namet<br> 5.Ration Card <br> 6. School Certificate ",
+        ServiceCharge:" Service Charge : 60/-"
      
         
     },{
